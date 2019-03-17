@@ -1,0 +1,95 @@
+
+html,body {
+  overflow-x: hidden; 
+  
+}
+body {
+  padding-top: 100px;
+  
+   
+}
+
+
+
+div#sidebar {
+   
+    width:200px;
+    position:right;
+    right:-800px;
+}
+hr {
+	
+	margin-bottom: 4%;
+}
+
+.categ{
+	
+	display: block;
+	
+}
+     
+.txt {
+	
+	margin-left:23% ;
+	font-size : 28px ;
+	
+}
+.txtcent{
+	
+	margin-right: 1%;
+	font-size: 30px;
+	
+	
+}
+.aide{
+	
+	margin-left:80%;
+	
+}
+
+.avatar {
+	
+    margin-left:35%;
+	margin-bottom:3%;
+	
+}
+
+.parametre{
+	
+	
+	font-size:25px ;
+}
+
+.container  {
+	margin-right: 0%;
+	margin-left: 20%;
+	margin-top:3%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	
+	
+}
+
+.container2{
+	
+	margin-right: 0%;
+	margin-left: 20%;
+	margin-top: 3%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	
+}	   
+	   
+.TDBT{
+	
+	
+	font-size: 50px;
+	font-family: armenian sans-serif;
+	margin-top: -5%;
+	margin-left: 0%;
+	
+	
+	}	
+	   

@@ -1,0 +1,159 @@
+
+	
+
+	
+
+	body {
+		background: #fae7b5;
+		color:black;
+	}
+
+		
+
+/* Type */
+
+	body, input, select, textarea {
+		
+		font-family: "Raleway", Arial, Helvetica, sans-serif;
+		font-size: 16pt;
+		font-weight: 300;
+		line-height: 1.65;
+	}
+
+	
+
+	
+	h2 {
+		font-size: 1.75em;
+		font-weight: 100;
+	}
+
+
+
+	.align-center {
+		text-align: center;
+	}
+
+
+	.chrt{
+	font-size: 1%;
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+		color: #black
+	}
+	
+
+		
+
+/* Section/Article */
+
+	
+
+		
+
+	section.wrapper, article.wrapper {
+		padding: 6em 0;
+	}
+
+		section.wrapper header, article.wrapper header {
+			margin-bottom: 4em;
+		}
+
+			section.wrapper header h2, article.wrapper header h2 {
+				font-size: 2.75em;
+				margin: 0 0 .5em 0;
+			}
+
+			
+
+		
+
+	
+
+
+
+/* Header */
+
+	    .subpage #header {
+			background:#fa0945;
+			top: 0;
+			height: 44px;
+			line-height: 44px;
+			position: fixed;
+		}
+
+	#header {
+		color: #d4e0ef;
+		cursor: default;
+		height: 3.25em;
+		left: 0;
+		line-height: 3.25em;
+		position: absolute;
+		text-align: right;
+		top: 4em;
+		width: 100%;
+		
+	}
+
+		#header .inner {
+			margin: 0 auto;
+			position: relative;
+		}
+
+		#header .logo {
+			color: #ffffff;
+			display: inline-block;
+			font-weight: 600;
+			height: inherit;
+			left: 0;
+			line-height: inherit;
+			margin: 0;
+			padding: 0;
+			position: absolute;
+			
+			font-size: 1.5em;
+		}
+
+		#header a {
+			
+			
+			display: inline-block;
+			padding: 0 0.75em;
+			color: inherit;
+			text-decoration: none;
+			font-size: 1em;
+		}
+
+			#header a:hover {
+				color: #ffffff;
+			}
+
+
+
+/* Footer */
+
+	
+	
+	.inner {
+		max-width: 75em;
+		margin: 0 auto;
+	}
+	
+	
+	#footer .inner {
+		border-top:0.5px solid black;
+		padding-top: 1px;
+	}
+	.lamrk{
+	font-size:0.7em;	
+		
+	}
+	.chrt{
+		font-size: 0.7em;
+		
+		
+	}
+	
+	
+	
+	#footer { 
+    display: block;

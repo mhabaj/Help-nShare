@@ -1,0 +1,225 @@
+@charset "UTF-8";
+
+@import "https://fonts.googleapis.com/css?family=Raleway:100,300,600";
+
+/* Par défaut:*/
+
+	html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100px;
+		font: inherit;
+		vertical-align: baseline;
+	}
+
+	
+
+
+
+
+
+/* Type */
+
+	body,  textarea {
+		color: #3a9a9a;
+		font-family: "Raleway", Arial, Helvetica, sans-serif;
+		font-size: 12pt;
+		font-weight: 300;
+		line-height: 1.65;
+	}
+
+
+body{
+background: linear-gradient(270deg, #ff0000, #ff2f00, #ce5d11, #ce9011, #cea911, #8fce11, #4dce11, #11ce42, #11ce5b, #11ce8d, #15948f, #158294, #156194, #154594, #181594, #3a1594, #561594, #721594, #94158a, #94155d, #941536, #941515, #941515);
+background-size: 4600% 4600%;
+
+-webkit-animation: BodyAcceuil 46s ease infinite;
+-moz-animation: BodyAcceuil 46s ease infinite;
+-o-animation: BodyAcceuil 46s ease infinite;
+animation: BodyAcceuil 46s ease infinite;
+}
+@-webkit-keyframes BodyAcceuil {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes BodyAcceuil {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes BodyAcceuil {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes BodyAcceuil { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+
+
+	h1, h2, h3, h4, h5, h6 {
+		
+		color: 	#6A5ACD;
+		font-weight: 800;
+		line-height: 0.5;
+		margin: 0 0 1em 0;
+	}
+
+		
+
+	
+
+	h3 {
+		font-size: 40px;
+	}
+
+	
+
+	
+	
+	
+
+	.inner {
+		max-width: 75em;
+		margin: 2.5em auto;
+	}
+
+		
+
+
+		
+	
+	/* Button */
+
+	
+	.button {
+		background-color: #5a5a5a;
+		border-radius: 0;
+		border: 0;
+		color: #ffffff ;
+		cursor: pointer;
+		display: inline-block;
+		font-weight: 600;
+		height: 2.85em;
+		line-height: 2.95em;
+		padding: 0 2.5em;
+		text-align: center;
+		text-decoration: none;
+		white-space: nowrap;
+		}
+	.button.special:hover {
+	background-color: #6692c8; }
+		
+
+	
+
+/* Header */
+
+	
+
+	#header {
+		color: #d4e0ef;
+		cursor: default;
+		height: 3.25em;
+		left: 0;
+		line-height: 3.25em;
+		position: absolute;
+		text-align: right;
+		top: 1em;
+		width: 100%;
+		
+	}
+
+		#header .inner {
+			margin: 0 auto;
+			position: relative;
+		}
+
+		#header .logo {
+			color: #ffffff;
+			display: inline-block;
+			font-weight: 600;
+			height: inherit;
+			left: 0;
+			line-height: inherit;
+			margin: 0;
+			padding: 0;
+			position: absolute;
+			top: 0;
+			font-size: 1.5em;
+		}
+
+		#header a {
+			
+			
+			display: inline-block;
+			padding: 0 0.75em;
+			color: inherit;
+			text-decoration: none;
+			font-size: 1em;
+		}
+
+			#header a:hover {
+				color: #ffffff;
+			}
+
+			
+			
+			
+
+
+/* Banner */
+
+	#banner {
+		padding: 7em 0 15em 0;
+		
+		background-size: cover;
+		background-position: center ;
+		background-attachment: fixed;
+		background-repeat: initial;
+		text-align: center;
+		border-top: 0px solid #fa0945;
+		
+		
+	}
+
+		#banner h1 {
+			font-size: 4.5em;
+			font-weight: 100;
+			color: #fff;
+			line-height: initial;
+			margin: 10 0 0em 10;
+			padding: 0;
+		}
+
+		
+
+/* Footer */
+
+	#footer .inner {
+		border-top: 1px solid #dbdbdb;
+		padding-top: 0px;
+	}
+	
+	.chrt{
+		font-size: 1%;
+		
+		
+	}
+	
+	
+	
+	#footer { 
+    display: block;
+}
+
+	
+
+
+
+	

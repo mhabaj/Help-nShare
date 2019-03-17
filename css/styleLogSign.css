@@ -1,0 +1,98 @@
+
+body{
+	background:#fafafa;
+	font-family: 'Oxygen', sans-serif;
+}
+.main{
+	margin:7em auto 0;
+	width:44%;
+	
+	margin-bottom:10%;
+}
+
+
+
+.titre{
+	
+	font-family: oxygen ;
+	font-size:180%;
+	color: #1c0d27 ;
+	
+	
+}
+
+
+
+span.term a{
+	color: #1888A8;
+	font-weight: bold;
+}
+
+
+
+.lable-2 input { 
+	padding: 20px;
+	width: 100%;
+	font-size: 1.2em;
+	margin: 18px 0px;
+	border:none;
+	color: #666666;
+	float: left;
+	font-weight: 700;
+	font-family: 'Oxygen';
+	background: #ffffff;
+	
+}
+
+input {
+	padding: 17px 30px;
+	color: #fff;
+	float: right;
+	font-family: 'Oxygen', sans-serif;
+	background: #40A46F;
+	border: 1px solid #40A46F;
+	cursor: pointer;
+	font-size: 18px;
+	
+}
+.submit :hover {
+	 background:#07793D;
+	 border:3px solid #07793D;
+	 
+}
+	
+	
+	
+	
+.submit {
+		margin-top: 0%;
+		margin-bottom:0%;
+
+}
+
+
+
+body {	 
+background: linear-gradient(272deg, #b3b9b8, #ffffff, #bfbebe, #c3a6a6, #dbcaca, #eecfcf, #818080, #e6e5e5, #e6e5e5);
+background-size: 1800% 1800%;
+
+-webkit-animation: pagelogin 60s ease infinite;
+-moz-animation: pagelogin  60s ease infinite;
+animation: pagelogin  60s ease infinite;
+}
+@-webkit-keyframes pagelogin  {
+    0%{background-position:0% 49%}
+    50%{background-position:100% 52%}
+    100%{background-position:0% 49%}
+}
+@-moz-keyframes pagelogin  {
+    0%{background-position:0% 49%}
+    50%{background-position:100% 52%}
+    100%{background-position:0% 49%}
+}
+@keyframes pagelogin  { 
+    0%{background-position:0% 49%}
+    50%{background-position:100% 52%}
+    100%{background-position:0% 49%}
+}
+
